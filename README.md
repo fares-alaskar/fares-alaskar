@@ -51,6 +51,6 @@
 
 ###
 
-<h6 align="center">Do not go gentle into that good night</h6>
+<h3 align="center">Do not go gentle into that good night</h3>
 
 ###
